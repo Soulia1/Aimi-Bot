@@ -1,0 +1,11 @@
+pywin32
+imutils
+mss
+numpy>=2,<2.3
+opencv-python==4.12.0.88
+pynput
+six
+termcolor
+colored
+keyboard
+mouse

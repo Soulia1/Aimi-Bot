@@ -1,0 +1,25 @@
+﻿# Local Python environments and downloaded package caches
+.venv/
+.aimi-env/
+.aimi-packages/
+__pycache__/
+*.py[cod]
+
+# Raw training data and generated training runs
+training/dataset/images/
+training/dataset/labels/
+training/dataset/*.cache
+training/runs/
+training/train_console.log
+
+# Local capture and runtime output
+*.log
+*.mp4
+*.csv
+*.db
+*.sqlite*
+
+# Temporary and operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini

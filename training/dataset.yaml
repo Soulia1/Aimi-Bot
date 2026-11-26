@@ -1,0 +1,8 @@
+path: C:/Users/Yousof/Downloads/AIMi source code/AIMi-main/training/dataset
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: person
+  1: head
